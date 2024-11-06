@@ -18,6 +18,7 @@ class Solution{
                     ch = (char)(ch+32);
                 }
             }
+
             //把每个char拼接起来
             stringBuilder.append(ch);
         }
